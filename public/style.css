@@ -1,0 +1,41 @@
+#linkMenu {
+	width: 100%;
+	padding: 10px;
+	text-align: center;
+	align-content: center;
+}
+#linkMenu th {
+	width:20%;
+}
+
+#info {
+	font-size: 110%;
+}
+
+#searchFlight {
+	align-content: center;
+	border: 5px;
+}
+
+
+#results {
+	align-content: center;
+	text-align: center;
+	border: 10px;
+}
+
+#head {
+	text-align: center;
+	align-content: center;
+}
+
+#h1 {
+	font-size: 175%
+}
+
+#h3 {
+	text-align: center;
+	align-content: center;
+	font-size: 150%
+}
+
